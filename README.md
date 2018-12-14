@@ -8,7 +8,7 @@
 ## 环境依赖
 	Python3.x
 	
-	必须成功安装Python、pip等,并且正确配置环境变量,否则该库可能无法正常工作.
++ 必须成功安装Python、pip等,并且正确配置环境变量,否则该库可能无法正常工作.
 
 ## 安装
 	pip3 install datetimex
