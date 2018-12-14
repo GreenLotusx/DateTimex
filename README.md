@@ -44,5 +44,5 @@ gettime方法返回值为一个元组,其中第一项为当前时间，第二项
 ```
 
 ## 效果图
-![](https://github.com/GreenLotusx/DateTimex/blob/master/2018-12-14%2017-16-46%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE.png)  
+![](https://github.com/GreenLotusx/DateTimex/blob/master/pic.png)  
 
