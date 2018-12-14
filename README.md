@@ -1,4 +1,4 @@
-#datetimex-说明文档
+#  atetimex-说明文档
 
 ##简述
 	这是一个适用于中文时间字符串格式化的Python库.
