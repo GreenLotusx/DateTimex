@@ -13,8 +13,6 @@
 ## 安装
 	pip3 install datetimex
 	
-	#安装非常方便,和其他第三方库安装步骤一致
-	
 ## 使用
 ```
 import datetimex
