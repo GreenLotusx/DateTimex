@@ -65,7 +65,7 @@ class FormatTime(object):
 		"""
 			这个方法用作进一步格式化传入的时间，注意：此方法不是每个时间数据都调用
 			传入：
-				timeData(时间数据，类型为tuple)、
+				timeData(时间数据，类型为tuple)
 				timeIndex(不作处理时按照现在的时间来取时对应的下标，类型为list，例如取出年数据为【0,4】)
 				needFormat(是否进行格式化，即调用__formatLength方法，类型为布尔类型，默认为True，即需要进行调用__formatLength方法)
 				timeType(时间类型，即传入的时间类型,类型为string，例如：year、hour)
